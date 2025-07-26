@@ -1,0 +1,23 @@
+{
+  "name": "Bluefield State Big Blues Basketball",
+  "short_name": "Big Blues",
+  "description": "Official app for Bluefield State University Men's Basketball Team",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0F1D44",
+  "theme_color": "#0F1D44",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "maskable any"
+    }
+  ],
+  "categories": ["sports", "education"],
+  "lang": "en-US",
+  "dir": "ltr",
+  "scope": "/",
+  "id": "bluefield-state-basketball"
+}
